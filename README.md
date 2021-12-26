@@ -20,6 +20,8 @@
 
 注意：使用模拟 USB 直接烧录功能不可以调节内部 IRC 频率，也不可以进行片上仿真，建议使用串口进行烧录，在工程内提供有 `无模拟 USB 直接烧录功能（Without USB Writer）` 的 PCB 设计，可直接选择使用。
 
+本 PCB 设计已通过完整功能性测试，且已添加 [嘉立创](https://www.jlc.com/) SMT 定位孔，可直接进行 SMT 贴片生产。但请注意，本设计完整开源并遵循 [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/) 开源协议，开源作者不对作品的安全性、完整性作任何承诺，且不对因此产生的任何损失承担后果。
+
 你可以使用本项目的 焊接助手（[标准版](https://htmlpreview.soraharu.com/?https://gitlab.soraharu.com/XiaoXi/8051-Uno-Development-Board-based-on-STC8G-and-STC8H/-/raw/master/InteractiveHtmlBom/index.html) | [无模拟 USB 直接烧录功能](https://htmlpreview.soraharu.com/?https://gitlab.soraharu.com/XiaoXi/8051-Uno-Development-Board-based-on-STC8G-and-STC8H/-/raw/master/InteractiveHtmlBom/index_Without-USB-Writer.html)） 有效地提升手工焊接效率，本助手通过 [InteractiveHtmlBom](https://gitlab.soraharu.com/XiaoXi/InteractiveHtmlBom) 自动生成。
 
 ## 🛠️ 生产电路板
@@ -34,7 +36,7 @@
 
 1. 克隆本项目 [源代码](https://gitlab.soraharu.com/XiaoXi/8051-Uno-Development-Board-based-on-STC8G-and-STC8H/-/archive/master/8051-Uno-Development-Board-based-on-STC8G-and-STC8H-master.zip) 到本地
 2. 在立创 EDA 标准版编辑器中选择 `文件` -> `打开` -> `立创EDA...`
-3. 选择本项目源代码中的 `/EasyEDA/1-*.json` 文件并分别导入
+3. 选择本项目源代码中的 `/EasyEDA/*.json` 文件并分别导入
 
 ## 🔤 字体
 
