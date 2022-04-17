@@ -2,9 +2,7 @@
 
 ⭐ 基于 STC8G 与 STC8H 系列单片机的 8051 Uno 开发板 ⭐
 
-[![pipeline status](https://gitlab.soraharu.com/XiaoXi/8051-Uno-Development-Board-based-on-STC8G-and-STC8H/badges/master/pipeline.svg)](https://gitlab.soraharu.com/XiaoXi/8051-Uno-Development-Board-based-on-STC8G-and-STC8H/-/commits/master)
-[![Latest Release](https://gitlab.soraharu.com/XiaoXi/8051-Uno-Development-Board-based-on-STC8G-and-STC8H/-/badges/release.svg)](https://gitlab.soraharu.com/XiaoXi/8051-Uno-Development-Board-based-on-STC8G-and-STC8H/-/releases)
-[![vercel](https://vercelbadge.soraharu.com/?app=interactivehtmlbom)](https://interactivehtmlbom.soraharu.com/)
+[![pipeline status](https://gitlab.soraharu.com/XiaoXi/8051-Uno-Development-Board-based-on-STC8G-and-STC8H/badges/master/pipeline.svg)](https://gitlab.soraharu.com/XiaoXi/8051-Uno-Development-Board-based-on-STC8G-and-STC8H/-/commits/master) [![Latest Release](https://gitlab.soraharu.com/XiaoXi/8051-Uno-Development-Board-based-on-STC8G-and-STC8H/-/badges/release.svg)](https://gitlab.soraharu.com/XiaoXi/8051-Uno-Development-Board-based-on-STC8G-and-STC8H/-/releases) [![vercel](https://vercelbadge.soraharu.com/?app=interactivehtmlbom)](https://interactivehtmlbom.soraharu.com/)
 
 🔗 [GitLab (Homepage)](https://gitlab.soraharu.com/XiaoXi/8051-Uno-Development-Board-based-on-STC8G-and-STC8H) | 🔗 [OSHWHub](https://oshwhub.com/yanranxiaoxi/8051-Uno-Development-Board-based-on-STC8G-and-STC8H) | 🔗 [GitHub](https://github.com/yanranxiaoxi/8051-Uno-Development-Board-based-on-STC8G-and-STC8H)
 
